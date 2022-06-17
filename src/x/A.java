@@ -5,5 +5,6 @@ public class A {
         System.out.println(1000);
         System.out.println(0);
         System.out.println(99);
+        System.out.println(1000);
     }
 }
